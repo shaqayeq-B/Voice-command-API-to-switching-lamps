@@ -8,7 +8,7 @@ Welcome to the **Voice Command API for IoT** project! 🚀 This application demo
 ## 🎯 Features
 
 - **Voice Control**: Use natural speech to toggle virtual devices. 🗣️  
-- **Real-Time Feedback**: The Pygame window changes color (red/green) based on commands. 🌈  
+- **Real-Time Feedback**: The Pygame window changes color (yellow/blue) based on commands. 🌈  
 - **API Integration**: Flask backend processes commands for IoT scalability. 🔌  
 - **Simulated IoT Environment**: Pygame acts as a virtual IoT device for testing. 🖥️  
 
