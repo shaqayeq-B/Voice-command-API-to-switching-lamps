@@ -75,4 +75,3 @@ This project simulates IoT control using:
 ---
 
 🔌 **Happy coding! Control your virtual IoT world with your voice!** 🎤  
-```
